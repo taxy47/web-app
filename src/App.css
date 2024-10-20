@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+/* src/App.css */
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 80%;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
